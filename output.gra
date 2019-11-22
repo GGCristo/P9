@@ -1,0 +1,25 @@
+3
+a
+b
+~
+6
+A
+B
+Ca
+Cb
+D1
+S
+S
+12
+S -> CaA
+S -> a
+S -> CbD1
+S -> CbCb
+La produccion S -> ~ es vacia
+A -> CaA
+A -> a
+B -> CbB
+B -> CbCb
+Ca -> a
+Cb -> b
+D1 -> CbB
